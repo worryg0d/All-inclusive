@@ -2,6 +2,7 @@ package kata
 
 import "fmt"
 
+//Типа изменил
 func ContainAllRots(strng string, arr []string) bool {
 	str := strng
 
